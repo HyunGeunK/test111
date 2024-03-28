@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 안녕하세요 반갑습니다
 content2
 content1
 
 cooo
+=======
+안반가워씹라련아
+ooooo
+
+>>>>>>> test
